@@ -1,10 +1,4 @@
-//TODO: <name>
-//TODO: <date>
-//Practice 2011 - 03: Password Validation
-
-public class  {
-  public static void main(String[] args) {
-    //Bradley Dufour
+//Bradley Dufour
 //2016-01-13
 import java.util.Scanner;
 
@@ -60,8 +54,6 @@ public class BradleySolution
             }
          }      
       }
+      System.exit(0);
    }
-}
-    System.exit(0);
-  }
 }
